@@ -22,6 +22,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, Indi
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
+<code><img width="40px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" title="Nestjs"/></code>
+<code><img width="40px" src="https://github.com/ashutosh-s15/GIFs/blob/main/pngfind.com-pc-master-race-png-1363736.png" title="Expressjs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
