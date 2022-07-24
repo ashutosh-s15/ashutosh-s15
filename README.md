@@ -7,7 +7,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, Indi
 
 - *SDE* intern at **Prominence Games**.
 - *Head Coordinator* in Tech Phantom College Club (with over 150 students)
-- Full stack development Freelancer on **fiver**.
+- Full stack development Freelancer on **fiverr**.
 
 <br>
 
