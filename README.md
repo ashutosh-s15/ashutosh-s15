@@ -1,5 +1,6 @@
  <h1 align = "center"><img src="https://media.giphy.com/media/pmUDszPvVW6zKbdHWD/giphy.gif" width="45px">Ciao, I'm Ashutosh!</h1>
  <img src="https://github.com/ashutosh-s15/GIFs/blob/main/giphy%20(1).gif" width="245px">
+ <img src="https://github.com/ashutosh-s15/GIFs/blob/main/ezgif.com-gif-maker%20(8).gif" width="245px" align="right">
 
 I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, India. I am currently pursuing my Bachelor of Engineering degree in Computer Science Engineering from Arya Institute of Engineering Technology & Management, Jaipur.
 
