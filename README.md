@@ -11,10 +11,10 @@ I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, Indi
 
 <br>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ashutosh-s15&show_icons=true&locale=en" alt="ashutosh-s15" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-s15&show_icons=true&locale=en&layout=compact" alt="ashutosh-s15" />
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ashutosh-s15&show_icons=true&locale=en&theme=dark"" alt="ashutosh-s15" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-s15&show_icons=true&locale=en&layout=compact&theme=dark"" alt="ashutosh-s15" />
 </p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-s15&" alt="ashutosh-s15" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-s15&&theme=dark"" alt="ashutosh-s15" /></p>
   
 <br>
 <br>
