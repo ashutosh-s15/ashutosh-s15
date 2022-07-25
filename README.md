@@ -9,8 +9,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, Indi
 - *Head Coordinator* in Tech Phantom College Club (with over 150 students)
 - Full stack development Freelancer on **fiverr**.
 
-<br>
-
+## <img src="https://media.giphy.com/media/QtOt8WyYCGQBiJJ4ZJ/giphy.gif" width="35px"> Github statistics:
+<br> 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ashutosh-s15&show_icons=true&locale=en&theme=dark"" alt="ashutosh-s15" />
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-s15&show_icons=true&locale=en&layout=compact&theme=dark"" alt="ashutosh-s15" />
 </p>
