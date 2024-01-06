@@ -2,11 +2,12 @@
  <img src="https://github.com/ashutosh-s15/GIFs/blob/main/giphy%20(1).gif" width="245px">
  <img src="https://github.com/ashutosh-s15/GIFs/blob/main/ezgif.com-gif-maker%20(8).gif" width="245px" align="right">
 
-I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, India. I am currently pursuing my Bachelor of Engineering degree in Computer Science Engineering from Arya Institute of Engineering Technology & Management, Jaipur.
+I am a Tech and Coding enthusiast and a Software Developer based in Jaipur, India. I did my Bachelor of Engineering degree in Computer Science Engineering from Arya Institute of Engineering Technology & Management, Jaipur.
 
 ## <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="52px"> Experience: 
 
-- *SDE* at **Prominence Games**.
+- *Jr. Associate- Software Engineer* at **Unthinkable Solutions**.
+- *Ex-Associate Fullstack Engineer* at **Prominence Games**.
 - *Head Coordinator* in Tech Phantom College Club (with over 150 students)
 - Full stack development Freelancer on **fiverr**.
 
